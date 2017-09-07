@@ -1,0 +1,26 @@
+{
+	"fonts":
+	[
+		"imagine.ttf"
+	],
+	"textures":
+	[
+		"bottomBar.png",
+		"creditsBar1.png",
+		"creditsBar2.png",
+		"creditsBar2b.png",
+		"creditsBar2c.png",
+		"creditsBar2d.png",
+		"titleBar.png"
+	],
+	"soundBuffers":
+	[
+		"beep.ogg",
+		"death.ogg",
+		"gameOver.ogg",
+		"go.ogg",
+		"levelUp.ogg",
+		"openHexagon.ogg",
+		"swap.ogg"
+	]
+}

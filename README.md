@@ -1,0 +1,2 @@
+# SSVOpenHexagonAssets
+Assets for SSVOpenHexagon

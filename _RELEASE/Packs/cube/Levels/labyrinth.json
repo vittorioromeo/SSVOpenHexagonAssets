@@ -1,0 +1,12 @@
+{
+    "id": "labyrinth",
+    "name": "labyrinth",
+    "description": "forever trapped",
+    "author": "vittorio romeo",
+    "menuPriority": 80,
+    "selectable": true,
+    "styleId": "labyrinth",
+    "musicId": "commandoSteve",
+    "luaFile": "Scripts/Levels/labyrinth.lua",
+    "difficultyMults": [1.50, 0.5]
+}
